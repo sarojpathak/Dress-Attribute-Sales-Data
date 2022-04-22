@@ -1,0 +1,23 @@
+Dress_ID,Style,Price,Rating,Size,Season,NeckLine,SleeveLength,waiseline,Material,FabricType,Decoration,Pattern Type,Recommendation,Summer,Autumn,Winter,Spring,total
+1135456589,Casual,Average,0.0,Extra Large,Winter,v-neck,short,empire,polyster,shiffon,Others,solid,1,95,277.0,90.0,14,476.0
+661795386,Brief,Low,4.4,Large,Autumn,o-neck,halfsleeve,natural,rayon,chiffon,sashes,solid,0,14149,23483.0,8697.0,2844,49173.0
+942808364,cute,Low,4.3,Free,Autumn,o-neck,sleevless,natural,polyster,chiffon,sashes,Others,0,2288,4073.0,1497.0,475,8333.0
+870994067,cute,Low,4.8,Medium,Spring,o-neck,short,natural,Others,shiffon,bow,dot,1,596,1631.0,522.0,122,2871.0
+944264938,Sexy,Low,4.8,Free,Spring,Others,sleevless,natural,cotton,broadcloth,Others,solid,0,342,957.0,247.0,98,1644.0
+754316257,Casual,Low,4.7,Large,Summer,o-neck,sleevless,natural,silk,worsted,lace,patchwork,0,618,1955.0,526.0,132,3231.0
+861626197,Others,Average,4.8,Large,Winter,v-neck,short,natural,mix,broadcloth,lace,solid,0,5814,10090.0,3769.0,1166,20839.0
+1167448608,cute,low,0.0,Free,Summer,Others,short,empire,cotton,broadcloth,applique,print,0,196,428.0,152.0,37,813.0
+801216472,cute,high,4.3,Medium,Spring,boat-neck,full,natural,polyster,terry,lace,solid,1,80,208.0,60.0,25,373.0
+875312593,Casual,Average,4.8,Medium,Winter,o-neck,short,natural,Others,broadcloth,applique,patchwork,0,2887,5590.0,2028.0,555,11060.0
+934830377,Others,Low,4.6,Free,Summer,v-neck,sleevless,natural,cotton,broadcloth,beading,solid,0,517,1477.0,426.0,114,2534.0
+924108301,Casual,Low,4.7,Large,Summer,o-neck,full,natural,mix,worsted,lace,patchwork,1,362,1035.0,266.0,99,1762.0
+966005983,Brief,Average,4.6,Large,Spring,o-neck,full,natural,silk,chiffon,embroidary,print,1,7213,14411.0,5012.0,1455,28091.0
+675980168,Others,Average,4.6,Medium,Spring,o-neck,sleevless,natural,Others,shiffon,sashes,solid,0,1089,2929.0,719.0,363,5100.0
+757260823,Casual,Low,4.8,Free,Spring,o-neck,full,natural,cotton,worsted,lace,solid,0,167,398.0,145.0,33,743.0
+944930838,Others,low,4.0,Free,Summer,Others,short,natural,cotton,wollen,hollowout,solid,0,598,1657.0,416.0,183,2854.0
+743485617,cute,Average,4.4,Free,Spring,Others,sleevless,empire,Others,tulle,Others,solid,1,434,1223.0,310.0,135,2102.0
+946741571,Others,Average,4.0,Free,Winter,o-neck,sleevless,natural,polyster,chiffon,ruffles,Others,0,1252,3390.0,926.0,342,5910.0
+655464934,Casual,Average,4.6,Large,Winter,boat-neck,sleevless,empire,silk,broadcloth,applique,print,1,769,2117.0,516.0,254,3656.0
+913978120,Sexy,Medium,4.6,Large,Summer,o-neck,short,natural,Others,jersey,lace,solid,0,4611,7913.0,2937.0,900,16361.0
+1175184188,Casual,Average,0.0,Medium,Summer,o-neck,halfsleeve,natural,cotton,chiffon,ruffles,dot,1,95,216.0,83.0,23,417.0
+1021375534,cute,low,4.5,Large,Summer,o-neck,sleevless,natural,cotton,chiffon,sashes,solid,1,2083,3682.0,1379.0,411,7555.0
